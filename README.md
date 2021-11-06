@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Preview
+![Alt text](video/video.mp4?raw=true "Video")
 
 ## Getting Started
 
