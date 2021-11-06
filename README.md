@@ -1,6 +1,8 @@
-# stopwatch_flutter
+# Stopwatch App in Flutter
 
 A new Flutter project.
+
+## Preview
 
 ## Getting Started
 
